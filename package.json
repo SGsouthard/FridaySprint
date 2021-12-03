@@ -1,0 +1,20 @@
+{
+  "name": "fridaysprint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SGsouthard/FridaySprint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SGsouthard/FridaySprint/issues"
+  },
+  "homepage": "https://github.com/SGsouthard/FridaySprint#readme"
+}
